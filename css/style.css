@@ -1,0 +1,137 @@
+body {}
+
+
+/***common***/
+
+
+/**blocks**/
+
+.main-container {}
+
+.flex-container {}
+
+.flex-card {}
+
+.flex-card:hover ~ .flex-card__content {}
+
+.flex-card__content {}
+
+.flex-card__button {}
+
+.form {}
+
+.form__item {}
+
+.button {}
+
+.main-button {}
+
+
+
+/**elements**/
+
+.section {}
+
+.section__tag {}
+
+.section__title {}
+
+.small-heading {}
+
+.regular-text {}
+
+.minor-text {}
+
+.contact__form__label {}
+
+.contact__form__box {}
+
+
+
+/***sections***/
+
+
+/**support**/
+
+.support {}
+
+/*support__heading*/
+
+.support__heading {}
+
+.support__section-tag {}
+
+.support__section-title {}
+
+.support__minor-text {}
+
+/*support__faq*/
+
+.support__faq {}
+
+.support__faq__element {}
+
+.support__faq__checkbox {}
+
+.support__faq__checkbox:checked ~ .support__faq__answer {}
+
+.support__faq__question {}
+
+.faq__icon {}
+
+.faq__icon__open {}
+
+.support__faq__answer {}
+
+
+/**partners**/
+
+.partners {}
+
+/*partners__heading*/
+
+.partners__heading
+
+.partners__section-tag {}
+
+.partners__section-title {}
+
+.partners__description {}
+
+/*partners__list*/
+
+.partners__list {}
+
+.partners__item {}
+
+.partners__item__logo {}
+
+.partners__item__title {}
+
+.partners__item__description {}
+
+
+/**contact**/
+
+/*contact__heading*/
+
+.contact__heading
+
+.contact__section-tag {}
+
+.contact__section-title {}
+
+.contact__description {}
+
+/*contact__form*/
+
+.contact__form {}
+
+.contact__form__item {}
+
+.contact__form__label {}
+
+.contact__form__box {}
+
+.contact__button {}
+
